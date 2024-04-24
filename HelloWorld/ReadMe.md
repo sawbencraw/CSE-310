@@ -6,8 +6,6 @@ Running the code will output the words "Hello World!".
 
 The "Hello World" program is many programers' first coding project. It is incredibly simple with the purpose of it being more of a starting line than anything else. 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/SnGf3qFOWlE)
 
 # Development Environment
